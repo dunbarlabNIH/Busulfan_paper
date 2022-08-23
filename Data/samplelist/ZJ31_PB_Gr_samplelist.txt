@@ -1,0 +1,6 @@
+zj313hmPBgr.fastq
+zj316mGr1414cycles.fastq
+R22_zj31_9hm_PB_Gr_CD33p_GFPnp.fastq
+zj31_12m_Gr_Ficoll_CD_103_R1_ATCACG_L004_R1_001.fastq
+zj31_20m_Gr_20160328_pp_50trim_CD124_R1.fastq
+zj31_33m_Grans_F_twice_20170424_sampled_FX36_N701_S1_L008_R1_001.fastq
