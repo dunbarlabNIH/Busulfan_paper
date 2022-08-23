@@ -1,0 +1,10 @@
+ZH191mGFPPGr.fastq
+ZH192mCD33PGFPP.fastq
+ZH193mGr.fastq
+zh196mPBgr.fastq
+zh197mGr.fastq
+zh1910mCD33pGFPp.fastq
+zh1912mGr.fastq
+zh1915hmGFPpCD33p.fastq
+zh19_28m_Gr_CD110_R9_GATCAG_L001_R1_001.fastq
+pp_50trim_ZH19_41m_20161013_PB_Grans_cell_RNA_R23_FX17.fastq
